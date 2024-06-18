@@ -73,7 +73,7 @@ Analysis of popular dishes, cuisines, and menu items based on customer preferenc
 The analysis provides valuable insights into the restaurant landscape in Bengaluru, highlighting factors that influence customer preferences and restaurant success. These insights can help restaurant owners make data-driven decisions to enhance their offerings and improve customer satisfaction.
 
 ### Dashboard Home Page 
-The dashbord of this project can be found in the Dashboard.zip file.
+Please not that, the dashbord of this project can be found in the Dashboard.zip file.
 ![image](https://github.com/rajan2133/Zomato-Bengaluru-Restaurant-Analysis/assets/125083834/4e11a0e0-8df8-4fff-8c01-b68d536704bd)
 
 
