@@ -1,7 +1,7 @@
 # Zomato-Bengaluru-Restaurant-Analysis
 Welcome to the Zomato Bengaluru Restaurant Data Analysis Project repository. This project aims to analyze restaurant data from Zomato in Bengaluru to provide actionable insights for restaurant owners, food enthusiasts, and researchers using advanced data analysis techniques and interactive visualizations with Power BI.
 
-![Analysis_Tool](https://img.shields.io/badge/Analysis_Tool-Power_BI-yellow)
+![Analysis_Tool](https://img.shields.io/badge/Analysis_Tool-Power_BI-red)
 
 ## Table of Contents
 
