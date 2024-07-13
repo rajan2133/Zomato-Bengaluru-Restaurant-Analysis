@@ -3,6 +3,10 @@ Welcome to the Zomato Bengaluru Restaurant Data Analysis Project repository. Thi
 
 ![Analysis_Tool](https://img.shields.io/badge/Analysis_Tool-Power_BI-red)
 
+![image](https://github.com/user-attachments/assets/dbccaf00-01a2-457c-9eed-1d6598ecec41)
+
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -75,5 +79,4 @@ The analysis provides valuable insights into the restaurant landscape in Bengalu
 ### Dashboard Home Page 
 Please not that, the dashbord of this project can be found in the Dashboard.zip file.
 ![image](https://github.com/rajan2133/Zomato-Bengaluru-Restaurant-Analysis/assets/125083834/4e11a0e0-8df8-4fff-8c01-b68d536704bd)
-
 
